@@ -5,6 +5,7 @@
 如果是从 https://github.com/rmccue/Requests 重新下载的类库 ,在 Requests.php 添加一下函数
 
 /** 快速查找目录、文件 */
+
 	public static function find($dir)
 	{
 	    if(!is_dir($dir)) # 如果$dir变量不是一个目录，直接返回false
