@@ -147,7 +147,7 @@ class Requests {
 		}
 	}
 
-	/** 快速查找目录、文件 */
+	/** 快速导入文件类库 */
 	public static function find($dir)
 	{
 	    if(!is_dir($dir)) # 如果$dir变量不是一个目录，直接返回false
