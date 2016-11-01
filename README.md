@@ -1,5 +1,5 @@
 # requests
-销帮帮接口调用类
+php 销帮帮接口调用类
 
 使用类库 https://github.com/rmccue/Requests 
 如果是从 https://github.com/rmccue/Requests 重新下载的类库 ,在 Requests.php 添加一下函数
